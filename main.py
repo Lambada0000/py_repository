@@ -2,4 +2,8 @@ def addition(num1, num2):
     result = num1 + num2
     return result
 
-print(addition(10, 10))
+def subtraction(num1, num2):
+    result = num1 - num2
+    return result
+
+print(subtraction(10, 10))
